@@ -2,6 +2,11 @@
 
 NovaGem is a modern, responsive AI chat assistant powered by Google's Gemini AI. Built with React and styled with Tailwind CSS, it offers a sleek user interface with a beautiful glass-morphism design.
 
+Live Preview NovaGem - [Click here](https://novgemaichatbot.netlify.app/)
+
+
+
+
 ![NovaGem Preview](./public/image.png)
 
 ## 🌟 Features
